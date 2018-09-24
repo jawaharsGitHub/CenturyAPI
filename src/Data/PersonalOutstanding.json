@@ -1,0 +1,69 @@
+﻿[
+  {
+    "Name": "Sekar Bro",
+    "Amount": 20000,
+    "Date": "01-02-2017",
+    "Notes": ""
+  },
+  {
+    "Name": "Jothi",
+    "Amount": 20000,
+    "Date": "01-12-2017",
+    "Notes": ""
+  },
+  {
+    "Name": "Santhanam Uncle",
+    "Amount": 25000,
+    "Date": "02-08-2018",
+    "Notes": "for selavu"
+  },
+  {
+    "Name": "Santhanam Uncle",
+    "Amount": 7000, // return on sep 4th 2018. - 7000 on 12 sep 2018
+    "Date": "12-09-2018",
+    "Notes": "for bank loan as vanitha salary not yet credited."
+  },
+  {
+    "Name": "Vanitha",
+    "Amount": 25000,
+    "Date": "01-02-2017",
+    "Notes": "First Month Salary after Govt Job"
+  },
+  {
+    "Name": "Vengulam Raju",
+    "Amount": 30000,
+    "Date": "01-02-2017",
+    "Notes": ""
+  },
+  {
+    "Name": "Vanitha",
+    "Amount": 500000,
+    "Date": "01-02-2017",
+    "Notes": "Gold Return"
+  },
+  {
+    "Name": "Vanitha",
+    "Amount": 300000,
+    "Date": "01-02-2017",
+    "Notes": "For Mama Arusi Loan"
+  },
+  {
+    "Name": "Vanitha",
+    "Amount": 50000,
+    "Date": "01-02-2017",
+    "Notes": "Other"
+  },
+  {
+    "Name": "G",
+    "Amount": 92000,
+    "Date": "01-02-2017",
+    "Notes": "Seetu Money"
+  },
+  {
+    "Name": "Ramesh Bro",
+    "Amount": 15000,
+    "Date": "01-08-2017",
+    "Notes": "Help"
+  }
+
+]
